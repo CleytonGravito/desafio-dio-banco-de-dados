@@ -89,3 +89,6 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 ![Exercicio 12](Imagens/12.png)
+
+## Conclusões:
+O desafio foi concluído com sucesso em 12/10/2024, com todos os objetivos atingidos e testados conforme solicitado, garantindo a total correção dos resultados.
